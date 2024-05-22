@@ -31,6 +31,9 @@ public class Application {
             case ("-"):
                 jdh.minusTwoNumbersWithScanner();
 
+            case ("*"):
+                phc.multipleTest();
+
 
             case ("exit"):
                 break;

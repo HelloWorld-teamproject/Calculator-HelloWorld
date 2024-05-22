@@ -25,4 +25,11 @@ public class Jdh {
         System.out.println(first + " - " + second + " = " + result);
 
     }
+
+    public void makePi() {
+        double pi = 3.14159265358979;
+        System.out.println(pi);
+    }
+
+
 }

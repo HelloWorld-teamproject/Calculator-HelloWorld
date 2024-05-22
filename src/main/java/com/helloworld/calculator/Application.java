@@ -14,5 +14,10 @@ public class Application {
         jdh.minusTwoNumbers(first,second);
         jdh.minusTwoNumbersWithScanner(); // 실수를 입력받아 연산 수행
 
+
+        Parkhyochan phc = new Parkhyochan();
+        phc.multipleTest();
+
+        //곱하기 연산
     }
 }

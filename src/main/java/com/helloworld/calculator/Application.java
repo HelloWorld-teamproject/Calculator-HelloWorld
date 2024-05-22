@@ -16,5 +16,9 @@ public class Application {
         Parkhyochan phc = new Parkhyochan();
         phc.multipleTest();
 
+    Leeuijeong luj = new Leeuijeong();
+
+    luj.divide();
+
     }
 }

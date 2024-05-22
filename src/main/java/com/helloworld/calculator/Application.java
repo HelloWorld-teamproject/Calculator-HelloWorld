@@ -18,6 +18,10 @@ public class Application {
         Parkhyochan phc = new Parkhyochan();
        // phc.multipleTest();
 
+        //나누기 연산
+        Leeuijeong luj = new Leeuijeong();
+        // luj.divide();
+
         System.out.println("Hello World의 계산기입니다.");
         System.out.println("원하는 연산자를 선택하세요");
         Scanner sc = new Scanner(System.in);
@@ -32,6 +36,9 @@ public class Application {
 
             case ("*"):
                 phc.multipleTest();
+
+            case ("/"):
+                luj.divide();
 
             case ("exit"):
                 break;

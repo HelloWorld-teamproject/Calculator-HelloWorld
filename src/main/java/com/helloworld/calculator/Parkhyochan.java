@@ -1,4 +1,4 @@
 package com.helloworld.calculator;
 
-public class parkhyochan {
+public class Parkhyochan {
 }
